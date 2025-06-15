@@ -1,0 +1,7 @@
+baseURL: "https://your-github-username.github.io/your-repo-name/"
+languageCode: "zh-cn"
+title: "我的博客"
+theme: "ananke"
+params:
+  author: "你的名字"
+  description: "一个支持 Markdown、HTML、CSS、JS 的博客"

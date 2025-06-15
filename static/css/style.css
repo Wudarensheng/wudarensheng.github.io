@@ -1,0 +1,128 @@
+body {
+  font-family: 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
+  background: linear-gradient(120deg, #f0f4f8 0%, #e9eafc 100%);
+  color: #222;
+  margin: 0;
+  min-height: 100vh;
+}
+header, footer {
+  background: linear-gradient(90deg, #007acc 0%, #005fa3 100%);
+  color: #fff;
+  padding: 2em 1em 1em 1em;
+  text-align: center;
+  box-shadow: 0 2px 8px #dbeafe;
+}
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+  letter-spacing: 2px;
+}
+main {
+  max-width: 820px;
+  margin: 2.5em auto;
+  background: #fff;
+  padding: 2.5em 2em;
+  border-radius: 14px;
+  box-shadow: 0 4px 24px #dbeafe;
+  min-height: 400px;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #005fa3;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+p {
+  line-height: 1.8;
+  margin: 1em 0;
+}
+a {
+  color: #007acc;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #005fa3;
+  text-decoration: underline;
+}
+pre, code {
+  background: #f4f6fa;
+  color: #d6336c;
+  border-radius: 4px;
+  padding: 0.2em 0.5em;
+  font-family: 'Fira Mono', 'Consolas', monospace;
+}
+pre {
+  padding: 1em;
+  overflow-x: auto;
+}
+ul, ol {
+  margin: 1em 0 1em 2em;
+}
+blockquote {
+  border-left: 4px solid #007acc;
+  background: #f0f4f8;
+  color: #555;
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  font-style: italic;
+}
+footer {
+  margin-top: 3em;
+  font-size: 1em;
+  border-radius: 0 0 14px 14px;
+  box-shadow: 0 -2px 8px #dbeafe;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  background: #e9eafc;
+}
+::-webkit-scrollbar-thumb {
+  background: #b3c6e7;
+  border-radius: 4px;
+}
+.tech-home {
+  background: linear-gradient(135deg, #0f2027 0%, #2c5364 100%);
+  border-radius: 20px;
+  box-shadow: 0 6px 32px #0ff2ff33, 0 1.5px 8px #222b;
+  position: relative;
+  overflow: hidden;
+  padding: 3em 1.5em 2.5em 1.5em;
+}
+.tech-title {
+  font-family: 'Orbitron', 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', Arial, sans-serif;
+  font-size: 3.2em;
+  color: #00fff7;
+  letter-spacing: 0.25em;
+  margin-bottom: 0.2em;
+  text-shadow: 0 0 16px #00fff7cc, 0 2px 8px #222b;
+  filter: drop-shadow(0 0 8px #00fff7);
+}
+.tech-slogan {
+  font-size: 1.4em;
+  color: #e0e0e0;
+  margin: 0.7em 0 0.2em 0;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 8px #00fff799;
+}
+.tech-circuit-bg {
+  position: absolute;
+  left: 0; top: 0; width: 100%; height: 100%;
+  background: url('https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/asset/other/circuit-tech-bg.svg') center/cover no-repeat;
+  opacity: 0.13;
+  z-index: 0;
+  pointer-events: none;
+}
+.tech-list-title {
+  color: #00fff7;
+  font-family: 'Orbitron', 'Segoe UI', Arial, sans-serif;
+  letter-spacing: 0.1em;
+  text-shadow: 0 0 8px #00fff7cc;
+}
+.post-list ul li a {
+  color: #00fff7;
+  transition: color 0.2s;
+}
+.post-list ul li a:hover {
+  color: #fff;
+  text-shadow: 0 0 8px #00fff7cc;
+}
