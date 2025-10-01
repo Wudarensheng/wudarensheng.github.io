@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Wudarensheng Blog</title>
+        <link>https://blog.wudarensheng.top/page/</link>
+        <description>Recent content in Pages on Wudarensheng Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>无大人生</copyright>
+        <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.wudarensheng.top/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档 | Archives</title>
+        <link>https://blog.wudarensheng.top/archives/</link>
+        <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于 | About</title>
+        <link>https://blog.wudarensheng.top/%E5%85%B3%E4%BA%8E-about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/%E5%85%B3%E4%BA%8E-about/</guid>
+        <description>&lt;hr&gt;
+&lt;h1 id=&#34;hi我是无大人生&#34;&gt;Hi，我是无大人生！
+&lt;/h1&gt;&lt;p&gt;一个整天想着摸鱼的初中生，也一个编程爱好者。正在学习Python、C++、Xaml，希望之后能开发一些实用、赤石、逆天的软件。&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;strong&gt;:(&lt;/strong&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;你的电脑遇到问题，需要重新启动。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我们只能收集某些错误信息，然后为你重新启动。（完成 91%）&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;如果你想了解更多信息，则可以稍后在线搜索此错误：114514&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索 | Search</title>
+        <link>https://blog.wudarensheng.top/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友情链接 | Links</title>
+        <link>https://blog.wudarensheng.top/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5-links/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
