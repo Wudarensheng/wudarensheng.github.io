@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Cloudflare on Wudarensheng Blog</title>
+        <link>https://blog.wudarensheng.top/tags/cloudflare/</link>
+        <description>Recent content in Cloudflare on Wudarensheng Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>无大人生</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.wudarensheng.top/tags/cloudflare/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2025最新不绑卡获取Warp无限流量</title>
+        <link>https://blog.wudarensheng.top/p/2025%E6%9C%80%E6%96%B0%E4%B8%8D%E7%BB%91%E5%8D%A1%E8%8E%B7%E5%8F%96warp%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F/</link>
+        <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/p/2025%E6%9C%80%E6%96%B0%E4%B8%8D%E7%BB%91%E5%8D%A1%E8%8E%B7%E5%8F%96warp%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F/</guid>
+        <description>&lt;h1 id=&#34;什么是cloudflare-warp&#34;&gt;什么是Cloudflare WARP
+&lt;/h1&gt;&lt;p&gt;Cloudflare WARP是&lt;strong&gt;由Cloudflare提供的一项网络安全服务，用于增强移动设备和计算机的在线隐私和安全性&lt;/strong&gt;。 WARP的目标是通过使用更安全的互联网连接来保护用户的网络流量，防止恶意活动和提供更快的互联网体验。&lt;/p&gt;
+&lt;h2 id=&#34;获取cloudflare-warp无限流量的途径&#34;&gt;获取Cloudflare WARP无限流量的途径
+&lt;/h2&gt;&lt;p&gt;1.使用&lt;strong&gt;Zero Trust团队&lt;/strong&gt;账号（本篇文章介绍的方法，绕过绑卡）&lt;/p&gt;
+&lt;p&gt;2.使用 &lt;del&gt;&lt;strong&gt;无限流量的秘钥&lt;/strong&gt;&lt;/del&gt;（据说不行了，没试过）&lt;/p&gt;
+&lt;h1 id=&#34;正式教程&#34;&gt;正式教程
+&lt;/h1&gt;&lt;h2 id=&#34;1准备工作&#34;&gt;1.准备工作
+&lt;/h2&gt;&lt;p&gt;1.一个Cloudflare账号&lt;/p&gt;
+&lt;p&gt;2.一台能上网的电脑&lt;/p&gt;
+&lt;h2 id=&#34;2步骤&#34;&gt;2.步骤
+&lt;/h2&gt;&lt;p&gt;①登录到你的Cloudflare账号&lt;/p&gt;
+&lt;p&gt;②点击旁边的Zero Trust&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;就进到了这么一个界面&lt;/p&gt;
+&lt;p&gt;③设置团队名称&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/2.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;④这样就会跳转到一个选择计划的页面，虽然有免费计划，但也需要你绑卡&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/3.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;⑤这里我们直接回到Cloudflare主页&lt;/p&gt;
+&lt;p&gt;⑥再次点击Zero Trust就进到了Zero Trust的主页，如图：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/4.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;⑦之后我们点击Access里的概述来到这个界面&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/5.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;⑧往下面翻，找到“建议”里的“&lt;strong&gt;将你的设备与终结点客户端连接&lt;/strong&gt;”，点进去&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/6.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;⑨进到这个界面后，按照提示自己设置，不多赘述&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/7.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;⑩完成设置后按照下图的方式设置warp使用Zero Trust登录&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/9.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;⑪这个时候你的浏览器会跳转到这样一个界面&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/10.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这里的这个邮箱就填写你在**第二步（设置warp的第二步）**里设置的邮箱&lt;/p&gt;
+&lt;p&gt;⑫登陆成功后就会来到这样一个界面&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/11.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;这里一定要点&lt;strong&gt;打开！一定要！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;⑬这样你的&lt;strong&gt;Warp&lt;/strong&gt;就变成了如图所示的&lt;strong&gt;Zero Trust&lt;/strong&gt;，你也就获得了无限流量。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://blog.wudarensheng.top/p/2025%e6%9c%80%e6%96%b0%e4%b8%8d%e7%bb%91%e5%8d%a1%e8%8e%b7%e5%8f%96warp%e6%97%a0%e9%99%90%e6%b5%81%e9%87%8f/12.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;结语&#34;&gt;结语
+&lt;/h1&gt;&lt;p&gt;①不建议用大号尝试，防止被封&lt;/p&gt;
+&lt;p&gt;②如果没看懂可以去看我Bilibili的视频&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

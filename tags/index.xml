@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Wudarensheng Blog</title>
+        <link>https://blog.wudarensheng.top/tags/</link>
+        <description>Recent content in Tags on Wudarensheng Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>无大人生</copyright>
+        <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.wudarensheng.top/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cloudflare</title>
+        <link>https://blog.wudarensheng.top/tags/cloudflare/</link>
+        <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/tags/cloudflare/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Warp</title>
+        <link>https://blog.wudarensheng.top/tags/warp/</link>
+        <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/tags/warp/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Netlify</title>
+        <link>https://blog.wudarensheng.top/tags/netlify/</link>
+        <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/tags/netlify/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>域名</title>
+        <link>https://blog.wudarensheng.top/tags/%E5%9F%9F%E5%90%8D/</link>
+        <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wudarensheng.top/tags/%E5%9F%9F%E5%90%8D/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
